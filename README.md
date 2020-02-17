@@ -1,3 +1,19 @@
+### WatchDogs Bootanimation for OnePlus 5 MMT-Ex Mod
+
+For a preview of the bootanimation, please check [this](https://media.giphy.com/media/xULW8leB5jPetkdaYo/giphy.gif)
+
+#### V1.5
+- Updated to last Magisk 1500
+- Uploaded to Magisk repo
+
+By Robdyx
+
+#### 20200217
+- Updated for latest Magisk
+
+By Filo
+
+
 <h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
 
 <div align="center">

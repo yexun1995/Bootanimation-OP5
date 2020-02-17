@@ -17,6 +17,9 @@ cleanup() {
   ui_print " "
   ui_print "    **************************************"
   ui_print "    *   MMT Extended by Zackptg5 @ XDA   *"
+  ui_print "    *                                    *"
+  ui_print "    *   WatchDogs bootanimation for OP5  *"
+  ui_print "    *             by Robdyx              *"
   ui_print "    **************************************"
   ui_print " "
   $DEBUG && debug_log
